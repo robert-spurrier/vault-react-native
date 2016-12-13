@@ -1,7 +1,7 @@
 # vault-react-native
 
 ios/android app based on https://github.com/jcoglan/vault
-using clojurescript & re-frame (re-natal	v0.3.3)
+using clojurescript & re-frame (https://github.com/drapanjanas/re-natal	v0.3.3)
 
 ## Usage
 
